@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All ObjectOfObject.Testt Cases" verbose="1">
+    <test name="XMLTask.Serialization xml to String">
+        <classes>
+            <class name="XMLTask.Serialization"/>
+        </classes>
+    </test>
+
+    <test name="Object of object">
+        <classes>
+            <class name="ObjectOfObject.Testt"/>
+        </classes>
+    </test>
+
+    <listeners>
+        <listener class-name="Reports.Listners"/>
+    </listeners>
+</suite>

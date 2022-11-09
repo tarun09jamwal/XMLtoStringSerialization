@@ -1,0 +1,15 @@
+{
+  "email": "tarun@gmail.com",
+  "firstname": "Tarun",
+  "lastname": "Jamwal",
+  "address":
+  {
+    "state": "himachal pradesh",
+    "country": "india",
+    "distAndPin":
+    {
+      "district": "Mandi",
+      "pin": "175001"
+    }
+  }
+}
