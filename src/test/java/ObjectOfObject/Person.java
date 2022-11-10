@@ -1,7 +1,5 @@
 package ObjectOfObject;
 
-import ObjectOfObject.Address;
-
 public class Person {
     private String email;
     private String firstname;
